@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{32D0602F-1E6F-084D-B2AD-E9FAF79A17F0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FollowPlayer.cs">
+    <Files>
+      <File FileName="Assets/CameraController.cs" Line="26" Column="6" />
+      <File FileName="Assets/FollowPlayer.cs" Line="23" Column="6" />
+      <File FileName="Assets/CollisionResponse.cs" Line="26" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="06f1aec4-c8f7-4802-a132-7918499c5d4a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
