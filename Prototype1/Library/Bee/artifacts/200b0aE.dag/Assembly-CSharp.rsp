@@ -349,8 +349,10 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/CameraController.cs"
+"Assets/Chest.cs"
 "Assets/CollisionResponse.cs"
 "Assets/FollowPlayer.cs"
+"Assets/GemPickUp.cs"
 "Assets/Invector-3rdPersonController_LITE/3D Models/Others/HealthItem/vAnimateUV.cs"
 "Assets/Invector-3rdPersonController_LITE/Scripts/Camera/vThirdPersonCamera.cs"
 "Assets/Invector-3rdPersonController_LITE/Scripts/CharacterController/vThirdPersonAnimator.cs"
@@ -360,6 +362,7 @@
 "Assets/Invector-3rdPersonController_LITE/Scripts/Generic/Utils/vComment.cs"
 "Assets/Invector-3rdPersonController_LITE/Scripts/Generic/Utils/vExtensions.cs"
 "Assets/Invector-3rdPersonController_LITE/Scripts/Generic/Utils/vPickupItem.cs"
+"Assets/PickupUI.cs"
 -langversion:9.0
 
 /deterministic
