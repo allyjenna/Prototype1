@@ -28,9 +28,9 @@ public class CollisionResponse : MonoBehaviour
 
     private void OnCollisionEnter(Collision collision)
     {
-        Debug.Log("Collision detected");
         if (collision.collider.gameObject == player)
         {
+            Debug.Log("Collision detected");
             gameOverText.enabled = true;
             monster.GetComponent<Animator>().enabled = false;
             gameObject.GetComponent<FollowPlayer>().enabled = false;
