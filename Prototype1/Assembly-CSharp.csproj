@@ -72,6 +72,7 @@
     <Compile Include="Assets/Invector-3rdPersonController_LITE/Scripts/Generic/Utils/vExtensions.cs" />
     <Compile Include="Assets/Invector-3rdPersonController_LITE/Scripts/Camera/vThirdPersonCamera.cs" />
     <Compile Include="Assets/Death.cs" />
+    <Compile Include="Assets/Slider.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />

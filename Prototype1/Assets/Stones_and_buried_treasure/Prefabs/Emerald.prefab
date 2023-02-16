@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4239310807838762}
   - component: {fileID: 33914862973388140}
   - component: {fileID: 23454220763231302}
+  - component: {fileID: 804329731494067860}
   m_Layer: 0
   m_Name: Emerald
   m_TagString: Untagged
@@ -83,3 +84,17 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &804329731494067860
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1153693903604504}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c4fd6d0de9ac4e048a726dfd26b105b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 1
+  distance: 2
