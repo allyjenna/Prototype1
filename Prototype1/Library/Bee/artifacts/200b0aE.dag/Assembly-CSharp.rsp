@@ -351,6 +351,7 @@
 "Assets/CameraController.cs"
 "Assets/Chest.cs"
 "Assets/CollisionResponse.cs"
+"Assets/Death.cs"
 "Assets/FollowPlayer.cs"
 "Assets/GemPickUp.cs"
 "Assets/Invector-3rdPersonController_LITE/3D Models/Others/HealthItem/vAnimateUV.cs"

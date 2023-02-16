@@ -71,6 +71,7 @@
     <Compile Include="Assets/GemPickUp.cs" />
     <Compile Include="Assets/PickupUI.cs" />
     <Compile Include="Assets/Chest.cs" />
+    <Compile Include="Assets/Death.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />

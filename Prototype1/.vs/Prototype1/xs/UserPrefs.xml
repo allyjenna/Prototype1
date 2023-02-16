@@ -1,17 +1,18 @@
 ﻿<Properties StartupConfiguration="{32D0602F-1E6F-084D-B2AD-E9FAF79A17F0}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Chest.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Death.cs">
     <Files>
-      <File FileName="Assets/CameraController.cs" Line="26" Column="6" />
-      <File FileName="Assets/FollowPlayer.cs" Line="23" Column="6" />
-      <File FileName="Assets/CollisionResponse.cs" Line="43" Column="6" />
-      <File FileName="Assets/GemPickUp.cs" Line="9" Column="1" />
-      <File FileName="Assets/PickupUI.cs" Line="9" Column="21" />
-      <File FileName="Assets/Chest.cs" Line="16" Column="1" />
+      <File FileName="Assets/FollowPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets/CameraController.cs" />
+      <File FileName="Assets/CollisionResponse.cs" Line="37" Column="10" />
+      <File FileName="Assets/Chest.cs" />
+      <File FileName="Assets/GemPickUp.cs" />
+      <File FileName="Assets/PickupUI.cs" Line="19" Column="1" />
+      <File FileName="Assets/Death.cs" Line="25" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="06f1aec4-c8f7-4802-a132-7918499c5d4a" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6ec17cd0-28aa-4e6e-b2ea-10cca475e193" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
