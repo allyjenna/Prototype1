@@ -5,8 +5,7 @@ using UnityEngine;
 public class GemPickUp : MonoBehaviour
 {
     public int count = 0;
-    public GameObject particlePrefab;
-
+    //public GameObject particlePrefab;
 
     // Start is called before the first frame update
     void Start()
@@ -24,12 +23,12 @@ public class GemPickUp : MonoBehaviour
     {
         if (collision.collider.gameObject.CompareTag("Pickup"))
         {
-            GameObject.Instantiate(particlePrefab, collision.collider.gameObject.transform.position, Quaternion.identity);
+            //GameObject.Instantiate(particlePrefab, collision.collider.gameObject.transform.position, Quaternion.identity);
             GameObject.Destroy(collision.collider.gameObject);
 
             count = count + 1;
 
-            this.GetComponent<AudioSource>().Play();
+            //this.GetComponent<AudioSource>().Play();
 
             Debug.Log("Pickup counter: " + count);
         }

@@ -57,20 +57,20 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets/Invector-3rdPersonController_LITE/Scripts/CharacterController/vThirdPersonMotor.cs" />
+    <Compile Include="Assets/PickupUI.cs" />
     <Compile Include="Assets/Invector-3rdPersonController_LITE/3D Models/Others/HealthItem/vAnimateUV.cs" />
     <Compile Include="Assets/Invector-3rdPersonController_LITE/Scripts/Generic/Utils/vComment.cs" />
     <Compile Include="Assets/CollisionResponse.cs" />
     <Compile Include="Assets/Invector-3rdPersonController_LITE/Scripts/CharacterController/vThirdPersonAnimator.cs" />
     <Compile Include="Assets/Invector-3rdPersonController_LITE/Scripts/CharacterController/vThirdPersonInput.cs" />
     <Compile Include="Assets/FollowPlayer.cs" />
+    <Compile Include="Assets/Chest.cs" />
     <Compile Include="Assets/Invector-3rdPersonController_LITE/Scripts/Generic/Utils/vPickupItem.cs" />
     <Compile Include="Assets/CameraController.cs" />
+    <Compile Include="Assets/GemPickUp.cs" />
     <Compile Include="Assets/Invector-3rdPersonController_LITE/Scripts/CharacterController/vThirdPersonController.cs" />
     <Compile Include="Assets/Invector-3rdPersonController_LITE/Scripts/Generic/Utils/vExtensions.cs" />
     <Compile Include="Assets/Invector-3rdPersonController_LITE/Scripts/Camera/vThirdPersonCamera.cs" />
-    <Compile Include="Assets/GemPickUp.cs" />
-    <Compile Include="Assets/PickupUI.cs" />
-    <Compile Include="Assets/Chest.cs" />
     <Compile Include="Assets/Death.cs" />
   </ItemGroup>
   <ItemGroup>
