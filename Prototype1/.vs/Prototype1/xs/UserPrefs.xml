@@ -7,7 +7,7 @@
       <File FileName="Assets/CollisionResponse.cs" Line="33" Column="45" />
       <File FileName="Assets/Chest.cs" />
       <File FileName="Assets/Death.cs" />
-      <File FileName="Assets/Slider.cs" Line="9" Column="56" />
+      <File FileName="Assets/Slider.cs" Line="10" Column="1" />
       <File FileName="Assets/PickupUI.cs" Line="22" Column="6" />
     </Files>
   </MonoDevelop.Ide.Workbench>
